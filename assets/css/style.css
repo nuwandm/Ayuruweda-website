@@ -6498,6 +6498,7 @@ mark {
   -o-transition: .4s;
   transition: .4s;
 }
+background-color: aqua;
 
 .product-area .single-product .label-product .label-sale {
   top: 30px;
@@ -6512,7 +6513,7 @@ mark {
   padding: 0 6px;
 }
 .newxx{
-  background: linear-gradient( rgba(246,246,246,1) 0%, rgba(249,249,249,1) 35%, rgba(246,117,117,1) 100%);
+  background: linear-gradient( rgb(255, 255, 255) 0%, rgb(255, 255, 255) 12%, rgba(246,117,117,1) 100%);
 }
 
 .product-area .single-product .product-content {
