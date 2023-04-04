@@ -5987,6 +5987,10 @@ mark {
   }
 }
 
+.slide-1-home-2 {
+  background-image: url("../images/slider/11-1.jpg");
+  background-color: rgba(215, 177, 190, 0.9);
+}
 .slide-1 {
   background-image: url("../images/slider/1-1.jpg");
   background-color: rgba(215, 177, 190, 0.9);
