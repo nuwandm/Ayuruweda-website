@@ -5649,7 +5649,7 @@ mark {
 
 .intro11-slider .intro11-content {
   top: 50%;
-  left: 50%;
+  left: 65%;
   position: absolute;
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
@@ -5998,7 +5998,7 @@ mark {
 .slide-1-home-2 {
   /* background-image: url("../images/slider/111-1.jpg"); */
   /* background-color: rgba(215, 177, 190, 0.9); */
-  background: linear-gradient(to bottom, #ffffff, #010101);
+  background: linear-gradient(to bottom, #ffffff, #372424);
   background-size: contain;
 }
 .slide-1 {
